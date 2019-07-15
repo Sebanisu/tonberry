@@ -1,0 +1,6 @@
+
+.vs/*
+ConsoleTesting/x64/Debug/*
+Debug/*
+*/Debug/*
+*/Release/*
